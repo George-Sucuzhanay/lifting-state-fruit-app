@@ -2,6 +2,9 @@ import { useState, useEffect } from "react";
 import FruitFilter from "./FruitFilter";
 import FruitList from "./FruitList";
 
+/*
+Where will our event return from fruitfilter back to fruitContainer
+*/
 //  this is our stateful component
 function FruitContainer(props){
 
